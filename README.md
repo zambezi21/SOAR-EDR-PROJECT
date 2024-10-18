@@ -9,3 +9,7 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
 ### Tools Used
 
 ## Steps
+- The first step that was taken was to create a diagram of the project.
+
+  ![Diagram](https://github.com/user-attachments/assets/3b7aca6d-597b-4c3c-bb03-4e44ec90f4f0)
+   *Ref 1: Network Diagram*
