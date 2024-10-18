@@ -26,3 +26,5 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
  *Ref 4: Sensor info from the VM to LimaCharlie from the host*
 
 - The thrid step was to generate telemetry using Lazagne as well as create a detection and response rule.
+- The fourth step was to set up Slack and Tines as well as test connection with LimaCharle + Tines.
+- The fith step was to send a Slack message, send an email containing info about the detection, and generate a user prompt to ask to isolate the machine and if yes then isolate the machine.
