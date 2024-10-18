@@ -13,3 +13,11 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
 
   ![Diagram](https://github.com/user-attachments/assets/3b7aca6d-597b-4c3c-bb03-4e44ec90f4f0)
    *Ref 1: Network Diagram*
+
+  ![LimaCharlie 1](https://github.com/user-attachments/assets/1f026962-2d8d-41bc-b180-eb4e0174f4c6)
+  *Ref 2: Creating a LimaCharlie account base line*
+
+  ![LimaCharlie 2](https://github.com/user-attachments/assets/06c0e98d-a20f-4b78-a2e9-168e9c0e7bc4)
+  *Ref 3: Install LimaCharle onto the Windows VM*
+
+
