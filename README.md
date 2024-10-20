@@ -10,6 +10,7 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
 - Windows Server
 - Tines
 - LimaCharlie
+- Slack
 
 ## Steps
 - The first step that was taken was to create a diagram of the project.
