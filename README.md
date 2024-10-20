@@ -7,7 +7,7 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
 ### Skills Learned
 
 ### Tools Used
-- Windows Server VM
+- Windows Server
 - Tines
 - LimaCharlie
 
