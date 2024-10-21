@@ -39,7 +39,7 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
 
   ![Lazagne 3](https://github.com/user-attachments/assets/e958d0a4-f73c-43be-a449-733df96268d6)
   ![Lazagne 4](https://github.com/user-attachments/assets/7c4c2596-c789-43f4-a0cf-84056a2df6c5)
-  *Ref 7: Detection and Respon part of rule*
+  *Ref 7: Detection and Response part of rule*
 
   
 
