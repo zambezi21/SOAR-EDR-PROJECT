@@ -38,7 +38,8 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
   *Ref 6: Lazagne Event*
 
   ![Lazagne 3](https://github.com/user-attachments/assets/e958d0a4-f73c-43be-a449-733df96268d6)
-  *Ref 7: Detection part of rule*
+  ![Lazagne 4](https://github.com/user-attachments/assets/7c4c2596-c789-43f4-a0cf-84056a2df6c5)
+  *Ref 7: Detection and Respon part of rule*
 
   
 
