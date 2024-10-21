@@ -29,7 +29,7 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
   ![LimaCharlie 3](https://github.com/user-attachments/assets/7f94fdf6-ccf4-4368-83fa-972a28293dbf)
  *Ref 4: Sensor info from the VM to LimaCharlie from the host*
 
-- The thrid step was to generate telemetry using Lazagne as well as create a detection and response rule. Through the server, download Lazagne and then go to Tines and and view the Lazagne event info to help with creating a detection rule. Then using the info from the Lazagne event create both a detection and response aspect of a rule. Then using LimaCHarlie one can test the rule. 
+- The thrid step was to generate telemetry using Lazagne as well as create a detection and response rule. Through the server, download Lazagne and then go to Tines and and view the Lazagne event info to help with creating a detection rule. Then using the info from the Lazagne event create both a detection and response aspect of a rule. Using an exsiting rule and then modifiying it to your use case is the best approach. Then using LimaCHarlie one can test the rule. 
   
   ![Lazagne 1](https://github.com/user-attachments/assets/d44bb59e-b140-4c7e-8db4-4e366f24ed31)
   *Ref 5: Downloading Lazagne onto the Windows server*
