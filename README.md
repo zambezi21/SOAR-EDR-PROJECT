@@ -47,6 +47,12 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
   ![Screenshot (8)](https://github.com/user-attachments/assets/462a6440-a86a-40d0-85f2-daeb81e306b3)
   *Ref 9: The event in LimaCharlie*
 
-  
 - The fourth step was to set up Slack and Tines as well as test connection with LimaCharle + Tines.
+
+  ![Tines 1](https://github.com/user-attachments/assets/aa3a961d-6c38-4aaf-b249-34498c654f63)
+  
+  ![Tines 2](https://github.com/user-attachments/assets/b3605956-6375-4af2-b995-33d717de914d)
+  
+  ![Tines 3](https://github.com/user-attachments/assets/d9672a14-1491-4ac4-8d67-480884393ba4)
+
 - The fith step was to send a Slack message, send an email containing info about the detection, and generate a user prompt to ask to isolate the machine and if yes then isolate the machine.
