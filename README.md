@@ -50,10 +50,13 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
 - The fourth step was to set up Slack and Tines as well as test connection with LimaCharle + Tines.
 
   ![Tines 3](https://github.com/user-attachments/assets/afaad2b7-dda0-4c21-b9d6-e8f8dd8bfa95)
-
+  *Ref 10: Set up Slack Channel*
+  
   ![Tines 1](https://github.com/user-attachments/assets/aa3a961d-6c38-4aaf-b249-34498c654f63)
-  
-  ![Tines 2](https://github.com/user-attachments/assets/b3605956-6375-4af2-b995-33d717de914d)
-  
+  *Ref 11: Set up Tines*
+
+  ![Tines 3 (2)](https://github.com/user-attachments/assets/69c771d2-f1eb-4aaa-b395-b7d6dcae4f87)
+  ![Tines 4](https://github.com/user-attachments/assets/e33cf832-5ac5-42b0-9db5-0be51269a84a)
+  *Ref 12: Test connection btw LimaCharle + Tines*
 
 - The fith step was to send a Slack message, send an email containing info about the detection, and generate a user prompt to ask to isolate the machine and if yes then isolate the machine.
