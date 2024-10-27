@@ -61,7 +61,7 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
 
 - The fith step was to send a Slack message, send an email containing info about the detection, and generate a user prompt to ask to isolate the machine and if yes then isolate the machine. One has too set up the link between Tines and Slack.
 
-![Slack 1](https://github.com/user-attachments/assets/154bc4c3-1f42-4f74-94f1-f22c72e75783)
- *Ref 12: Coneection with Tines and Slack*
+  ![Slack 1 (2)](https://github.com/user-attachments/assets/38a44b69-20cd-4836-9b2a-8e6a8b17285d)
+  *Ref 12: Conection with Tines and Slack*
 
   
