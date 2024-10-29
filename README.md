@@ -63,5 +63,5 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
 
   ![Slack 1 (2)](https://github.com/user-attachments/assets/38a44b69-20cd-4836-9b2a-8e6a8b17285d)
   ![Slack 2](https://github.com/user-attachments/assets/b0eed4bf-e02e-474c-bf87-966ffd475238)
-  ![Slack 3](https://github.com/user-attachments/assets/a184b6ad-8e12-47a2-934b-5af6dfd839b1)
- *Ref 13: Conection with Tines and Slack, Testing the link betwwen them as well as email*
+  ![Slack 3](https://github.com/user-attachments/assets/981d18cc-93a5-402d-9742-05bf45e1f499)
+  *Ref 13: Conection with Tines and Slack, Testing the link betwwen them as well as email*
