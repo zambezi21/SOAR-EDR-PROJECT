@@ -67,6 +67,6 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
   *Ref 13: Conection with Tines and Slack, Testing the link betwwen them as well as email*
 
   ![Mutende-SOAR-EDR-Project-storyboard](https://github.com/user-attachments/assets/c5e27be9-9dff-4d18-9d78-158a621fc207)
-
+  *Ref 14: Tines whole playbook graph*
 
 
