@@ -74,4 +74,4 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
   ![Slack 5](https://github.com/user-attachments/assets/0942cf80-6025-44be-8910-0517fd7af277)
   ![Slack 6](https://github.com/user-attachments/assets/be355f01-2a11-4f60-a871-25530d03a261)
   ![Slack 7](https://github.com/user-attachments/assets/3656f427-bd29-49ae-8314-00603d94c482)
-  *Ref 15: Workflow test run with yeson user prompt*
+  *Ref 15: Workflow test run with yes as user prompt*
