@@ -29,7 +29,7 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
   ![LimaCharlie 3](https://github.com/user-attachments/assets/7f94fdf6-ccf4-4368-83fa-972a28293dbf)
  *Ref 4: Sensor info from the VM to LimaCharlie from the host*
 
-- The thrid step was to generate telemetry using Lazagne as well as create a detection and response rule. Through the server, download Lazagne and then go to Tines and and view the Lazagne event info to help with creating a detection rule. Then using the info from the Lazagne event create both a detection and response aspect of a rule. Using an exsiting rule and then modifiying it to your use case is the best approach. Then using LimaCHarlie one can test the rule. Then run ./Lazagne.exe all in the powershell command line of the windows sever and go back to Tines and using the Detections tab one will see the event. 
+- The third step is to generate telemetry using LaZagne and create a detection and response rule. Start by downloading LaZagne on the server, then go to Tines to view the LaZagne event details. This information will assist in creating a detection rule. Use an existing rule as a template and modify it for your use case to create both the detection and response components. Test the rule in LimaCharlie to ensure accuracy. Finally, run ./LaZagne.exe all in the PowerShell command line on the Windows server. Return to Tines, where the event will appear in the Detections tab.
   
   ![Lazagne 1](https://github.com/user-attachments/assets/d44bb59e-b140-4c7e-8db4-4e366f24ed31)
   *Ref 5: Downloading Lazagne onto the Windows server*
@@ -59,7 +59,7 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
   ![Tines 4](https://github.com/user-attachments/assets/e33cf832-5ac5-42b0-9db5-0be51269a84a)
   *Ref 12: Test connection btw LimaCharle + Tines*
 
-- The fith step was to send a Slack message, send an email containing info about the detection, and generate a user prompt to ask to isolate the machine and if yes then isolate the machine. One has too set up the link between Tines and Slack. Then test the link between them as well as the Tines and email. Then one has to set up the user promt with the yes and no actions as well as what message to send to Slack if response is 'no'and if response is 'yes'then communicate with LimaCharlie. Then run the whole workflow to test to see if it works and isloates the machine. Then ping a website on the windows server to test results, it should show General failure.
+- TThe fifth step involves sending a Slack message, emailing information about the detection, and generating a user prompt to request machine isolation. If the response is "yes," proceed to isolate the machine. Begin by setting up the integration between Tines and Slack and testing both the Slack and email links from Tines. Next, configure the user prompt with actions for "yes" and "no" responses, specifying the message to send to Slack if the response is "no" and initiating communication with LimaCharlie if the response is "yes." Run the entire workflow to test its functionality and ensure the machine is isolated as expected. Finally, verify by pinging a website from the Windows server; the result should indicate "General failure."
   
   ![Slack 1 (2)](https://github.com/user-attachments/assets/38a44b69-20cd-4836-9b2a-8e6a8b17285d)
   ![Slack 2](https://github.com/user-attachments/assets/b0eed4bf-e02e-474c-bf87-966ffd475238)
