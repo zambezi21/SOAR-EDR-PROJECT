@@ -71,6 +71,7 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
   ![Slack 2](https://github.com/user-attachments/assets/b0eed4bf-e02e-474c-bf87-966ffd475238)
   ![Slack 3](https://github.com/user-attachments/assets/981d18cc-93a5-402d-9742-05bf45e1f499)
   ![Slack 4](https://github.com/user-attachments/assets/881fe428-0178-4a71-9891-c1b539774061)
-
-
-  *Ref 15: Workflow test run*
+  ![Slack 5](https://github.com/user-attachments/assets/0942cf80-6025-44be-8910-0517fd7af277)
+  ![Slack 6](https://github.com/user-attachments/assets/be355f01-2a11-4f60-a871-25530d03a261)
+  ![Slack 7](https://github.com/user-attachments/assets/3656f427-bd29-49ae-8314-00603d94c482)
+  *Ref 15: Workflow test run with yeson user prompt*
