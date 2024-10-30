@@ -59,7 +59,7 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
   ![Tines 4](https://github.com/user-attachments/assets/e33cf832-5ac5-42b0-9db5-0be51269a84a)
   *Ref 12: Test connection btw LimaCharle + Tines*
 
-- The fith step was to send a Slack message, send an email containing info about the detection, and generate a user prompt to ask to isolate the machine and if yes then isolate the machine. One has too set up the link between Tines and Slack. Then test the link between them as well as the Tines and email. Then one has to set up the user promt with the yes and no actions as well as what message to send to Slack if response is 'no'and if response is 'yes'then communicate with LimaCharlie. Then run the whole playbook to test to see if it works and isloates the machine and ping a website on the windows server to test results.
+- The fith step was to send a Slack message, send an email containing info about the detection, and generate a user prompt to ask to isolate the machine and if yes then isolate the machine. One has too set up the link between Tines and Slack. Then test the link between them as well as the Tines and email. Then one has to set up the user promt with the yes and no actions as well as what message to send to Slack if response is 'no'and if response is 'yes'then communicate with LimaCharlie. Then run the whole workflow to test to see if it works and isloates the machine. Then ping a website on the windows server to test results, it should show General failure.
   
   ![Slack 1 (2)](https://github.com/user-attachments/assets/38a44b69-20cd-4836-9b2a-8e6a8b17285d)
   ![Slack 2](https://github.com/user-attachments/assets/b0eed4bf-e02e-474c-bf87-966ffd475238)
@@ -69,4 +69,4 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
   ![Mutende-SOAR-EDR-Project-storyboard](https://github.com/user-attachments/assets/c5e27be9-9dff-4d18-9d78-158a621fc207)
   *Ref 14: Tines whole playbook graph*
 
-
+  *Ref 15: Workflow test run*
