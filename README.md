@@ -68,5 +68,9 @@ The SOAR EDR project aimed to establish a controlled environment for automating 
 
   ![Mutende-SOAR-EDR-Project-storyboard](https://github.com/user-attachments/assets/c5e27be9-9dff-4d18-9d78-158a621fc207)
   *Ref 14: Tines whole playbook graph*
+  ![Slack 2](https://github.com/user-attachments/assets/b0eed4bf-e02e-474c-bf87-966ffd475238)
+  ![Slack 3](https://github.com/user-attachments/assets/981d18cc-93a5-402d-9742-05bf45e1f499)
+  ![Slack 4](https://github.com/user-attachments/assets/881fe428-0178-4a71-9891-c1b539774061)
+
 
   *Ref 15: Workflow test run*
